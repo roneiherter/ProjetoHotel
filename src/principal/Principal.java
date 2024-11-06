@@ -8,7 +8,7 @@ public class Principal {
 		
 		Funcoes funcao = new Funcoes();
 		
-		// aqui voce puxa a funções (Esse é o sistema principal)
+		// voce puxa a funções (Esse é o sistema principal)
 
 	}
 
